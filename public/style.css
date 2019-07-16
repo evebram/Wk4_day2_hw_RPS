@@ -1,4 +1,8 @@
 body{
-  background-color: grey;
-  font-family: Calibri;
+  background-color: white;
+  margin: 50px;
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: large;
+  color: SlateGrey;
+  text-align: center;
 }
